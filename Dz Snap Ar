@@ -1,0 +1,10 @@
+Package: com.yourepo.mohadu31.dzsnap1
+Name: DzSnap old
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: the future of snapchat tweaks
+Depiction: https://mohadu31.com/pack/dzsnap1
+Author: iMokhles
+Section: iOS12
+Maintainer: Mohadu313
+Depends: mobilesubstrate
